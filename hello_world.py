@@ -26,6 +26,7 @@ message = "One of Python's strengths is its diverse community."
 print(message)
 
 
-MAX_CONNECTIONS =5000
+MAX_CONNECTIONS =500_000_000
 print(MAX_CONNECTIONS)
 
+000000
